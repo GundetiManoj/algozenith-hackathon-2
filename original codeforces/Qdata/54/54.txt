@@ -1,0 +1,98 @@
+B. The BOSS Can Count Pairs
+time limit per test4 seconds
+memory limit per test512 megabytes
+inputstandard input
+outputstandard output
+You are given two arrays
+a
+and
+b
+, both of length
+n
+.
+Your task is to count the number of pairs of integers
+(i,j)
+such that
+1≤i<j≤n
+and
+ai⋅aj=bi+bj
+.
+Input
+Each test contains multiple test cases. The first line of input contains a single integer
+t
+(
+1≤t≤104
+) — the number of test cases. The description of test cases follows.
+The first line of each test case contains a single integer
+n
+(
+2≤n≤2⋅105
+) — the length of the arrays.
+The second line of each test case contains
+n
+integers
+a1,a2,…,an
+(
+1≤ai≤n
+) — the elements of array
+a
+.
+The third line of each test case contains
+n
+integers
+b1,b2,…,bn
+(
+1≤bi≤n
+) — the elements of array
+b
+.
+It is guaranteed that the sum of
+n
+across all test cases does not exceed
+2⋅105
+.
+Output
+For each test case, output the number of good pairs.
+Example
+input
+Copy
+3
+3
+2 3 2
+3 3 1
+8
+4 2 8 2 1 2 7 5
+3 5 8 8 1 1 6 5
+8
+4 4 8 8 8 8 8 8
+8 8 8 8 8 8 8 8
+output
+Copy
+2
+7
+1
+Note
+In the first sample, there are
+2
+good pairs:
+(1,2)
+,
+(1,3)
+.
+In the second sample, there are
+7
+good pairs:
+(1,2)
+,
+(1,5)
+,
+(2,8)
+,
+(3,4)
+,
+(4,7)
+,
+(5,6)
+,
+(5,7)
+.

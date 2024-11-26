@@ -1,0 +1,169 @@
+PARTIT - Partition
+EDIT3 - Editor II
+TCNUMFL - Simple Numbers with Fractions Conversion
+SUBS - String it out
+TPERML - Permutation generator
+BIRTHDAY - Birthday
+PT07Z - Longest path in a tree
+POLYCODE - Polygon Encoder
+FTOUR - Free Tour
+FCTRL - Factorial
+ONP - Transform the Expression
+ACT - Alpha Centauri Tennis
+MWORDS - Matrix Words
+HAREFOX - Hares and Foxes
+ABWORDS - AB-words
+UCUBE - The Unstable Cube
+PT07G - Colorful Lights Party
+MAZE - The Long and Narrow Maze
+EXPLOSN - The Explosion
+RAIN2 - Outside it is now raining
+PRLGAME - A Game of Pearls
+PAIRINT - Pairs of Integers
+PARTIT - Partition
+EDIT3 - Editor II
+TCNUMFL - Simple Numbers with Fractions Conversion
+SUBS - String it out
+TPERML - Permutation generator
+BIRTHDAY - Birthday
+PT07Z - Longest path in a tree
+POLYCODE - Polygon Encoder
+FTOUR - Free Tour
+FCTRL - Factorial
+ONP - Transform the Expression
+ACT - Alpha Centauri Tennis
+MWORDS - Matrix Words
+HAREFOX - Hares and Foxes
+ABWORDS - AB-words
+UCUBE - The Unstable Cube
+PT07G - Colorful Lights Party
+MAZE - The Long and Narrow Maze
+EXPLOSN - The Explosion
+RAIN2 - Outside it is now raining
+PRLGAME - A Game of Pearls
+PAIRINT - Pairs of Integers
+LANDSCAP - Landscaping
+TFOSS - Fossil in the Ice
+PARTIT - Partition
+EDIT3 - Editor II
+TCNUMFL - Simple Numbers with Fractions Conversion
+SUBS - String it out
+TPERML - Permutation generator
+BIRTHDAY - Birthday
+PT07Z - Longest path in a tree
+POLYCODE - Polygon Encoder
+FTOUR - Free Tour
+FCTRL - Factorial
+ONP - Transform the Expression
+ACT - Alpha Centauri Tennis
+MWORDS - Matrix Words
+HAREFOX - Hares and Foxes
+ABWORDS - AB-words
+UCUBE - The Unstable Cube
+PT07G - Colorful Lights Party
+MAZE - The Long and Narrow Maze
+EXPLOSN - The Explosion
+RAIN2 - Outside it is now raining
+PAIRINT - Pairs of Integers
+LANDSCAP - Landscaping
+TFOSS - Fossil in the Ice
+LOGIC - Logic
+SWAPS - Counting inversions
+CLEVER - The Clever Typist
+PRINT - Prime Intervals
+NCKLCE - Another Necklace Problem
+AROAD - Another Road Problem
+PB - Parking Bay
+ROBOT - Robot Number M
+ZOO - Zoo
+TRSTAGE - Traveling by Stagecoach
+EQDIV - Equidivisions
+BPRED - Branch Prediction
+DISUBSTR - Distinct Substrings
+CHASE - A Chase In WonderLand
+PALACE - Accomodate the palace
+COVER - K-path cover
+TREE1 - Tree
+SBSTR1 - Substring Check (Bug Funny)
+PARTIT - Partition
+PARTIT - Partition
+EDIT3 - Editor II
+TCNUMFL - Simple Numbers with Fractions Conversion
+SUBS - String it out
+TPERML - Permutation generator
+BIRTHDAY - Birthday
+PT07Z - Longest path in a tree
+POLYCODE - Polygon Encoder
+FTOUR - Free Tour
+FCTRL - Factorial
+ONP - Transform the Expression
+ACT - Alpha Centauri Tennis
+MWORDS - Matrix Words
+HAREFOX - Hares and Foxes
+ABWORDS - AB-words
+UCUBE - The Unstable Cube
+PT07G - Colorful Lights Party
+MAZE - The Long and Narrow Maze
+EXPLOSN - The Explosion
+RAIN2 - Outside it is now raining
+PRLGAME - A Game of Pearls
+PAIRINT - Pairs of Integers
+LANDSCAP - Landscaping
+TFOSS - Fossil in the Ice
+LOGIC - Logic
+SWAPS - Counting inversions
+CLEVER - The Clever Typist
+PRINT - Prime Intervals
+NCKLCE - Another Necklace Problem
+AROAD - Another Road Problem
+PB - Parking Bay
+ROBOT - Robot Number M
+ZOO - Zoo
+TRSTAGE - Traveling by Stagecoach
+EQDIV - Equidivisions
+BPRED - Branch Prediction
+DISUBSTR - Distinct Substrings
+CHASE - A Chase In WonderLand
+PARTIT - Partition
+EDIT3 - Editor II
+TCNUMFL - Simple Numbers with Fractions Conversion
+SUBS - String it out
+TPERML - Permutation generator
+BIRTHDAY - Birthday
+PT07Z - Longest path in a tree
+POLYCODE - Polygon Encoder
+FTOUR - Free Tour
+FCTRL - Factorial
+ONP - Transform the Expression
+ACT - Alpha Centauri Tennis
+MWORDS - Matrix Words
+HAREFOX - Hares and Foxes
+ABWORDS - AB-words
+UCUBE - The Unstable Cube
+PT07G - Colorful Lights Party
+MAZE - The Long and Narrow Maze
+EXPLOSN - The Explosion
+RAIN2 - Outside it is now raining
+PRLGAME - A Game of Pearls
+PAIRINT - Pairs of Integers
+LANDSCAP - Landscaping
+TFOSS - Fossil in the Ice
+LOGIC - Logic
+SWAPS - Counting inversions
+CLEVER - The Clever Typist
+PRINT - Prime Intervals
+NCKLCE - Another Necklace Problem
+AROAD - Another Road Problem
+PB - Parking Bay
+ROBOT - Robot Number M
+ZOO - Zoo
+TRSTAGE - Traveling by Stagecoach
+EQDIV - Equidivisions
+BPRED - Branch Prediction
+DISUBSTR - Distinct Substrings
+CHASE - A Chase In WonderLand
+PALACE - Accomodate the palace
+COVER - K-path cover
+TREE1 - Tree
+SBSTR1 - Substring Check (Bug Funny)
+RAILROAD - Railroads

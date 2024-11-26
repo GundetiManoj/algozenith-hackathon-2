@@ -1,0 +1,16 @@
+A partition of positive integer m into n components is any sequence a1,...,an of positive integers such that a1+...+an=m and a1<=a2<=...<=an. Your task is to determine the partition, which occupies the k-th position in the lexicographic order of all partitions of m into n components.
+The lexicographic order is defined as follows: sequence a1,...,an comes before b1,...,bn iff there exists such an integer i,1<=i<=n, that aj=bj for all j, 1<= j< i, and ai< bi.
+Input
+The input begins with the integer t, the number of test cases. Then t test cases follow.
+For each test case the input consists of three lines, containing the positive integers m, n and k respectively (1<=n<= 10, 1<= m<=220, k is not larger than the number of partitions of m into n components).
+Output
+For each test case output the ordered elements of the sought partition, separated by spaces.
+Example
+Sample input:
+1
+9
+4
+3
+
+Sample output:
+1 1 3 4

@@ -1,0 +1,132 @@
+E. Bully Sort
+time limit per test10 seconds
+memory limit per test1024 megabytes
+inputstandard input
+outputstandard output
+On a permutation
+p
+of length
+n
+, we define a bully swap as follows:
+Let
+i
+be the index of the largest element
+pi
+such that
+pi≠i
+.
+Let
+j
+be the index of the smallest element
+pj
+such that
+i<j
+.
+Swap
+pi
+and
+pj
+.
+We define
+f(p)
+as the number of bully swaps we need to perform until
+p
+becomes sorted. Note that if
+p
+is the identity permutation,
+f(p)=0
+.
+You are given
+n
+and a permutation
+p
+of length
+n
+. You need to process the following
+q
+updates.
+In each update, you are given two integers
+x
+and
+y
+. You will swap
+px
+and
+py
+and then find the value of
+f(p)
+.
+Note that the updates are persistent. Changes made to the permutation
+p
+will apply when processing future updates.
+Input
+The first line of the input contains two integers
+n
+and
+q
+(
+2≤n≤5⋅105
+,
+1≤q≤5⋅104
+) — the length of the permutation and the number of updates.
+The second line of input contains
+n
+integer
+p1,p2,…,pn
+(
+1≤pi≤n
+) — the permutation
+p
+. All elements of
+p
+are distinct.
+The
+i
+-th of the next
+q
+lines of input contains two integers
+xi
+and
+yi
+(
+1≤xi<yi≤n
+) — describing the
+i
+-th update.
+Output
+After each update, output
+f(p)
+.
+Example
+input
+Copy
+8 5
+6 2 1 5 3 4 7 8
+1 8
+2 3
+4 7
+7 8
+3 6
+output
+Copy
+5
+6
+9
+8
+7
+Note
+After the first update, we have
+f(p)=5
+. The
+5
+bully swaps are illustrated below.
+[1,2,8,5,3,4,7,6]
+,
+[1,2,3,5,8,4,7,6]
+,
+[1,2,3,5,4,8,7,6]
+,
+[1,2,3,5,4,6,7,8]
+,
+[1,2,3,4,5,6,7,8]
+.

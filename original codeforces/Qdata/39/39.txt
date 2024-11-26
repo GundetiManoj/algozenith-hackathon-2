@@ -1,0 +1,97 @@
+F. The Third Grace
+time limit per test5 seconds
+memory limit per test1024 megabytes
+inputstandard input
+outputstandard output
+You are given
+n
+intervals and
+m
+points on the number line. The
+i
+-th intervals covers coordinates
+[li,ri]
+and the
+i
+-th point is on coordinate
+i
+and has coefficient
+pi
+.
+Initially, all points are not activated. You should choose a subset of the
+m
+points to activate. For each of
+n
+interval, we define its cost as:
+0
+, if there are no activated points in the interval;
+the coefficient of the activated point with the largest coordinate within it, otherwise.
+Your task is to maximize the sum of the costs of all intervals by choosing which points to activate.
+Input
+Each test contains multiple test cases. The first line of input contains a single integer
+t
+(
+1≤t≤105
+) — the number of test cases. The description of test cases follows.
+The first line of each test case contains two integers
+n
+and
+m
+(
+1≤n≤106,1≤m≤106
+) — the number of intervals and the number of points.
+The following
+n
+lines of each test case contains two integers
+li
+and
+ri
+(
+1≤li≤ri≤m
+) — the endpoints of the
+i
+-th interval.
+The following line of each test case contains
+m
+integers
+p1,p2,…,pm
+(
+0≤pi≤109
+) — the coefficients of the points.
+It is guaranteed that the sum of
+n
+does not exceed
+106
+and the sum of
+m
+does not exceed
+106
+.
+Output
+Output the maximum possible sum of costs of all intervals.
+Example
+input
+Copy
+2
+2 8
+1 5
+3 8
+78 0 50 0 0 0 0 30
+1 6
+1 5
+0 0 0 0 0 100
+output
+Copy
+108
+0
+Note
+In the first sample, we can activate points
+1
+and
+8
+. The sum of costs of all intervals will be
+78+30=108
+.
+In the second sample, we will activate no points. The sum of costs of all intervals will be
+0
+.
